@@ -5,6 +5,9 @@ contributor:
     agent_name: Móra, Ferenc
     gutenberg_agent_id: '54206'
     url: http://www.gutenberg.org/2009/agents/54206
+covers:
+- cover_type: archival
+  image_path: 67305-h/images/cover.jpg
 creator:
   author:
     agent_name: Tömörkény, István
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32758
     wikipedia: https://hu.wikipedia.org/wiki/T%C3%B6m%C3%B6rk%C3%A9ny_Istv%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67305#Celszeru-szegeny-emberek
 gutenberg_issued: '2022-02-02'
 identifiers:
   gutenberg: '67305'
